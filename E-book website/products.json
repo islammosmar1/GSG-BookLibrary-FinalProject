@@ -1,0 +1,101 @@
+[
+    {
+        "id": 1,
+        "name":" LD01 BOOK",
+        "price": 20,
+        "image": "image/1.png"
+    },
+    {
+        "id": 2,
+        "name":" LD02 BOOK",
+        "price": 25,
+        "image": "image/2.png"
+    },
+    {
+        "id": 3,
+        "name":" LD03 BOOK",
+        "price": 29,
+        "image": "image/3.png"
+    },
+    {
+        "id": 4,
+        "name":" LD04 BOOK",
+        "price": 20,
+        "image": "image/4.png"
+    },
+    {
+        "id": 5,
+        "name":" LD05 BOOK",
+        "price": 30,
+        "image": "image/5.png"
+    },
+    {
+        "id": 6,
+        "name":" LD06 BOOK",
+        "price": 20,
+        "image": "image/6.png"
+    },
+    {
+        "id": 7,
+        "name":" LD07 BOOK",
+        "price": 20,
+        "image": "image/7.png"
+    },
+    {
+        "id": 8,
+        "name":" LD08 BOOK",
+        "price": 49.99,
+        "image": "image/8.png"
+    },
+
+    {
+        "id": 9,
+        "name":" LD01 BOOK",
+        "price": 20,
+        "image": "image/1.png"
+    },
+    {
+        "id": 10,
+        "name":" LD02 BOOK",
+        "price": 25,
+        "image": "image/2.png"
+    },
+    {
+        "id": 11,
+        "name":" LD03 BOOK",
+        "price": 29,
+        "image": "image/3.png"
+    },
+    {
+        "id": 12,
+        "name":" LD04 BOOK",
+        "price": 20,
+        "image": "image/4.png"
+    },
+    {
+        "id": 13,
+        "name":" LD05 BOOK",
+        "price": 30,
+        "image": "image/5.png"
+    },
+    {
+        "id": 14,
+        "name":" LD06 BOOK",
+        "price": 20,
+        "image": "image/6.png"
+    },
+    {
+        "id": 15,
+        "name":" LD07 BOOK",
+        "price": 20,
+        "image": "image/7.png"
+    },
+    {
+        "id": 16,
+        "name":" LD08 BOOK",
+        "price": 49.99,
+        "image": "image/8.png"
+    }
+
+
+]
